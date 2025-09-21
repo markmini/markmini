@@ -1,68 +1,61 @@
-# Portfolio Website
+# Mark Mweetwa
+# 🩻🪼 About Me
+I'm a passionate **Full Stack Developer** and **Tech Explorer**.  
+I specialize in **MERN stack development**, **mobile app development with React Native**, and **backend systems with Python & FastAPI**.  
 
-A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
+I’m also diving deep into **Data Science & Machine Learning**, working with tools like **NumPy, Pandas, and Scikit-learn**.  
+My focus is on building scalable solutions, solving real-world problems, and staying updated with the latest trends.  
 
-## Features
+---
 
-- **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
-- **Modern UI**: Clean, professional design with smooth animations
-- **Interactive Elements**: 
-  - Smooth scrolling navigation
-  - Contact form with validation
-  - Profile picture upload functionality
-  - Animated skill tags and timeline
-- **Sections**:
-  - Hero section with profile picture and introduction
-  - About me section with personal story and statistics
-  - Skills showcase (MERN stack, Python, FastAPI, Data Science)
-  - Professional experience timeline (Meta, Clean 81, Watch)
-  - Contact information and form
+# 💻 Skills & Technologies
 
-## Technologies Used
+### 🌐 Full Stack Development
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-- HTML5
-- CSS3 (with Flexbox and Grid)
-- Vanilla JavaScript
-- Font Awesome icons
-- Google Fonts (Inter)
+### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## Getting Started
+### 🐍 Backend & APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-1. Clone or download this repository
-2. Open `index.html` in your web browser
-3. Customize the content with your personal information:
-   - Replace placeholder profile picture
-   - Update personal details in the HTML
-   - Modify contact information
-   - Add your actual work experience details
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Customization
+### 📊 Data Science & ML
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Profile Picture
-- Replace the placeholder image URL in the HTML
-- Or click on the profile picture to upload a new one (browser functionality)
+### ⚙️ Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Personal Information
-- Update name, title, and description in the hero section
-- Modify the about me section with your personal story
-- Update contact information (email, phone, LinkedIn, GitHub)
+---
 
-### Work Experience
-- Edit the timeline section with your actual work history
-- Update company names, positions, and descriptions
-- Modify dates and achievements
+# 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=markmini&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markmini&layout=compact&theme=radical)
 
-### Skills
-- Add or remove skill tags in the skills section
-- Organize skills by category
-- Update skill categories as needed
+---
 
-## Browser Support
+# 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=markminiE&theme=radical)
 
-- Chrome (recommended)
-- Firefox
-- Safari
-- Edge
+---
+
+# 🌱 Currently Exploring
+- Advanced **Data Science & Machine Learning** techniques  
+- Building production-ready **APIs with FastAPI**  
+- Enhancing skills in **scalable mobile development** with React Native  
+
+
 
 ## License
 
