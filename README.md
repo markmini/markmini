@@ -44,6 +44,7 @@ My focus is on building scalable solutions, solving real-world problems, and sta
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/VisualStudio-4AA04B?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ---
 
