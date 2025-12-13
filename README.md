@@ -28,6 +28,8 @@ My focus is on building scalable solutions, solving real-world problems, and sta
 ### 🐍 Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![C#](https://img.shields.io/badge/C#-4EA94B?style=for-the-badge&logo=c#&logoColor=white)
+![Express](https://img.shields.io/badge/Express-4EA94B?style=for-the-badge&logo=mexpress&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
