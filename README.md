@@ -1,6 +1,6 @@
 # Mark Mweetwa
 # 🩻🪼 About Me
-I'm a passionate **Full Stack Developer** and **Tech Explorer**.  
+I'm a passionate **Data analyst** , **Full Stack Developer** and **Tech Explorer**.  
 I specialize in **MERN stack development**, **mobile app development with React Native**, **destop apps with WPF & C#** and **backend systems with Python & FastAPI**.  
 
 I’m also diving deep into **Data Science & Machine Learning**, working with tools like **NumPy, Pandas, and Scikit-learn**.  
